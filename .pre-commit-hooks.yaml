@@ -1,0 +1,8 @@
+- id: usort
+  name: usort
+  description: Safe, minimal import sorting for Python projects.
+  entry: usort check
+  language: python
+  require_serial: false
+  verbose: true
+  types: [python]
